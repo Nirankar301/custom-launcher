@@ -10,3 +10,6 @@ App list is sorted in ascending order based on app name.
 - Library module also notifies about apps installation & un installtion.
 - App module updates the launcher apps list whenever it gets notified by library module on apps installtion & un installation.
 
+
+
+![Screenshot](Screenshot_20201220-125624.png)
